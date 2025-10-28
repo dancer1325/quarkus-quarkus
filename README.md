@@ -33,17 +33,18 @@ _All under ONE framework._
 
 ## Getting Started
 
-* [Documentation](https://quarkus.io)
+* [Documentation](https://github.com/dancer1325/quarkusio.github.io)
+  * ⚠️DIFFERENT repo == NOT this repo⚠️
 * [Wiki](https://github.com/quarkusio/quarkus/wiki)
 
 ## Migration Guides
 
-We collect all the migration notes in our [migration guides](https://github.com/quarkusio/quarkus/wiki/Migration-Guides).
+* [migration guides](https://github.com/quarkusio/quarkus/wiki/Migration-Guides)
 
 ## Release Planning
 
-Interested in when the next release is coming? Check our [release planning](https://github.com/quarkusio/quarkus/wiki/Release-Planning) document for details.
+* [release planning](https://github.com/quarkusio/quarkus/wiki/Release-Planning)
 
 ## How to build Quarkus
 
-The build instructions are available in the [contribution guide](CONTRIBUTING.md).
+* [contribution guide](CONTRIBUTING.md)
